@@ -1,4 +1,4 @@
 web
 ===
 
-latihan
+latihan latihan
